@@ -5,3 +5,4 @@ Debug
 *.vscode
 x64
 *.docx
+*.vcxproj
