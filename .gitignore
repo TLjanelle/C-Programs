@@ -1,3 +1,13 @@
+# System files
+*.vs
+Debug
+x64
+*.sln
+*.vcxproj
+*.vcxproj.*
+.vscode
+*.docx
+
 # Prerequisites
 *.d
 
